@@ -11,7 +11,6 @@ import {
 } from '../utils/motion'
 import { StartSteps, TitleText, TypingText } from '../components'
 import { startingFeatures } from '../constants'
-import { ST } from 'next/dist/shared/lib/utils'
 
 const GetStarted = () => (
   <section className={`${styles.paddings} relative z-10`}>

@@ -1,1 +1,0 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"/home/victor/webDev/repos/metaverse-site/app/page":["/home/victor/webDev/repos/metaverse-site/styles/globals.css"]},"/home/victor/webDev/repos/metaverse-site/app/layout.js":["/home/victor/webDev/repos/metaverse-site/styles/globals.css"]}
